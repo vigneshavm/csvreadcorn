@@ -1,0 +1,15 @@
+{
+  "name": "basiccsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basedcsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "node-cron": "^2.0.3"
+  }
+}
