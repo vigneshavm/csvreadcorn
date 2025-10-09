@@ -1,15 +1,15 @@
 {
-  "name": "basiccsv",
+  "name": "blackjack-game",
   "version": "1.0.0",
-  "description": "",
-  "main": "basedcsv.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "csv-parser": "^2.3.0",
-    "node-cron": "^2.0.3"
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.7.0"
   }
 }
